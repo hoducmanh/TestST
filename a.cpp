@@ -1,3 +1,3 @@
 //code has been changed
 //push to branch
-//create conflict
+//this line causes conflict and conflict has been solved
